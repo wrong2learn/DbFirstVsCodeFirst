@@ -1,0 +1,6 @@
+@DbFirstVsCodeFirst_HostAddress = http://localhost:5028
+
+GET {{DbFirstVsCodeFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
